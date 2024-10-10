@@ -11,7 +11,7 @@ footer: true
 
 <Post authors="nbats" />
 
-#### Internet Archive was hacked today, all 31 million accounts have had their details leaked. If you have an account its *highly* recommended to change your password on the site, as well as anywhere else you are using the same login details.
+#### Internet Archive was hacked today, all 31 million accounts have had their details leaked. If you have an account its *highly* recommended to change your password on the site, as well as anywhere else you are using the same login details. Don't worry the password is hashed.
 
 * https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/
 
